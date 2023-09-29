@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+   
+</head>
+<body>
+    <style>
+      .box{
+        
+        background-color: red;
+        background-size:; width: 500px;height: 800px;
+        float: left;
+        margin-left: 30px;
+    } 
+
+
+    .boxes2blue{
+
+             background-color: blue;
+            background-size: ;width: 400px;height: 400px;
+            float: left;
+            margin-left: 30px
+}
+
+.boxes3green{
+
+    background-color: darkgreen ;
+    background-size: ;width: 400px;height: 400px;
+    float: left;
+}
+
+.boxes4yellow{
+
+background-color: yellow ;
+background-size: ;width: 400px;height: 400px;
+float: left;
+margin-left: 30px
+}
+
+.boxes5black{
+
+    background-color: black ;
+    background-size: ;width: 400px;height: 400px;
+    float: left;
+
+
+}
+
+
+       
+
+         </style>
+
+<div class="box">
+    <h1>1</h1>
+</div>
+
+<div class="boxes2blue">
+    <h2>2</h2>
+</div>
+<div class= "boxes3green">
+    <h3>3</h3>
+</div>
+
+<div class= "boxes4yellow">
+    <h4>4</h4>
+</div>
+
+
+
+<div class= "boxes5black">
+    <h5>5</h5>
+</div>
